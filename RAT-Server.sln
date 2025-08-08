@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RAT-Server", "RAT-Server.csproj", "{CBF538C7-C9F2-08B5-8CA1-B9C7D6117000}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBF538C7-C9F2-08B5-8CA1-B9C7D6117000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF538C7-C9F2-08B5-8CA1-B9C7D6117000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF538C7-C9F2-08B5-8CA1-B9C7D6117000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF538C7-C9F2-08B5-8CA1-B9C7D6117000}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97F22B0A-BE3F-4830-9173-055D19ECBB41}
+	EndGlobalSection
+EndGlobal
